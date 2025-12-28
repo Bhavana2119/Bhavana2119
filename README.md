@@ -1,4 +1,27 @@
- 👋 Hey there!<br><br>I'm a **civil engineering student transitioning into tech**, passionate about building things not just with concrete, but with **code** too. Currently sharpening my skills in:<br><br>* 📚 **DSA & java**<br>* 🎨 **Web Development** – HTML, CSS, JavaScript<br>* 💡 Practicing regularly on **LeetCode**<br><br>I'm especially looking to:<br><br>* 🤝 **Collaborate on beginner-friendly open-source or web development projects**<br>* 🔍 Understand **real-world project structure**<br>* 🚀 Learn how to build and work with **front-end frameworks**<br><br>Though I come from a **non-CS background**, my curiosity, consistency, and quiet determination drive me.<br>**I'm an introvert** who doesn’t speak much — but **my code does.**<br><br>💬 Always open to connect, collaborate, or just talk tech.<br>Ask me about learning to code as a non-CS student — I’ve been there, still doing that!<br><br>
+👋 Hey there!
+I'm an aspiring full-stack developer, passionate about building things with code. Currently sharpening my skills in:
+
+📚 DSA & Java
+
+🎨 Web Development – HTML, CSS, JavaScript
+
+💻 Front-end – React, Next.js
+
+🖥️ Back-end – Node.js, Express.js, MongoDB
+
+💡 Practicing regularly on LeetCode
+
+I'm especially looking to:
+
+🤝 Collaborate on beginner-friendly open-source or web development projects
+
+🔍 Understand real-world project structures
+
+🚀 Learn how to build and work with modern front-end and back-end frameworks
+
+I'm dedicated to continuous learning, writing clean and efficient code, and actively expanding my technical skills. I'm very open to contributing to projects, collaborating with others, and gaining hands-on experience in full-stack development.
+
+💬 Always open to connect, collaborate, or just talk tech.
 
 
 ## 🌐 Socials:
